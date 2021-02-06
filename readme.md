@@ -1,5 +1,4 @@
-#
-FORMULÁRIO DE LOGIN DISCORD
+# FORMULÁRIO DE LOGIN DISCORD
 
 Projeto criado para o youtube, o intuito inicial era fazer um formulário de login com semelhanças à pagina de login do discord web desktop.
 
