@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./public/css/style.css">
     <title>FORMULÁRIO DISCORD YOUTUBE</title>
 </head>
 
@@ -19,14 +19,14 @@
 
             <form action="" class="form">
                 <label for="email">E-MAIL OU NÚMERO DE TELEFONE</label>
-                <input type="text" class="email">
+                <input type="text" class="email" id="email">
 
                 <label for="password">SENHA</label>
-                <input type="password" class="password">
+                <input type="password" class="password" id="password">
 
                 <span class="forgot"><a href="">Esqueceu sua senha?</a></span>
 
-                <button>Entrar</button>
+                <button id="button">Entrar</button>
 
                 <div class="singin">
                     <p>Precisando de uma conta? <span><a href="">Registre-se</a></span></p>
@@ -35,11 +35,12 @@
         </div>
 
         <div class="right">
-            <img src="qrcode.png" alt="">
+            <img src="./public/img/qrcode.png" alt="">
             <h2>Entrar com Código QR</h2>
             <p>Escaneie isto com o <b>app móvel do MaxLeads</b> para fazer login imediatamente.</p>
         </div>
     </div>
+    <script src="./public/js/scripts.js"></script>
 </body>
 
 </html>

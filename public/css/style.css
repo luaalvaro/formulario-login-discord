@@ -24,7 +24,7 @@ body {
     align-items: center;
     justify-content: center;
 
-    background: url(bg.jpg);
+    background: url(../img/bg.jpg);
 }
 
 img {
@@ -144,4 +144,8 @@ a:hover {
 .right p {
     font-size: .95rem;
     color: rgb(182, 182, 182);
+}
+
+.errorInput {
+    border: 2px solid rgb(207, 53, 53) !important;
 }
