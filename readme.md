@@ -4,11 +4,14 @@ O desenvolvimento deste projeto foi estruturado para disponibilizar uma vídeo a
 
 Começamos com o primeiro vídeo da playlist onde faço toda a estilização do html com o css, e o segundo vídeo da playlist nós utilizamos o javascript para fazer algumas validações do lado do cliente.
 
-### Projeto hospedado nos servidores da vercel: discordlogin-liard.vercel.app/
+### Projeto hospedado nos servidores da vercel:
+discordlogin-liard.vercel.app/
 
-### Criando o projeto do zero com Html e Css: gowts.me/EalD/
+### Criando o projeto do zero com Html e Css:
+gowts.me/EalD/
 
-### Criando validações de formulário com JavaScript: gowts.me/0rOt/
+### Criando validações de formulário com JavaScript:
+gowts.me/0rOt/
 
 Por mais que seja um projeto simples, estamos falando de desenvolvimento web, e toda a internet funciona com base em html, css e javascript. Aprender o básico é que te fará ter uma base forte e estruturada para lidar com qualquer tipo de resolução de problemas.
 
